@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q5lC9KCZzCK29ZYqkxmstAYRywCe3pDztT2gThiZPl4=",
+  "Source": "ResumeServer",
+  "BasePath": "_content/ResumeServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
